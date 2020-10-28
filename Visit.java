@@ -1,4 +1,3 @@
-
 package beautysalon;
 
 public class Visit  {
