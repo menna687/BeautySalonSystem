@@ -1,4 +1,3 @@
-
 package beautysalon;
 
 enum members {Premium, Gold, Silver, NoMembership}
